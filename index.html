@@ -1,8 +1,16 @@
 <!doctype html>
 <title>JonLim.ca</title>
 <script src="../bower_components/mithril/mithril.min.js"></script>
-<body>
-Hello, world!
+<script>
+  var index = {}
 
-<script></script>
-</body>
+  index.view = function() {
+    return m("html", [
+      m("body", [
+        m("span", "Hello, world!")
+      ])
+    ]);
+  }
+
+  m.render(document, index.view());
+</script>
