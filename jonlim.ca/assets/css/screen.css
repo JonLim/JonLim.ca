@@ -957,6 +957,7 @@ body.nav-opened .nav {
     font-family: "Merriweather", serif;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);
+    background-color: #7F74B6;
 }
 
 .no-cover.main-header {
