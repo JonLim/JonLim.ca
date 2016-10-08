@@ -1,8 +1,8 @@
 # Casper - Modified for JonLim.ca
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/), but modified with slight changes depending on design needs for JonLim.ca
+The theme for JonLim.ca, using the Casper theme, which is the default theme for [Ghost](http://github.com/tryghost/ghost/).
 
-Changes made by Jon Lim, with all credit going to Ghost Foundation for Casper!
+To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
 
 ## Copyright & License
 

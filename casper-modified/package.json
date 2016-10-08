@@ -1,4 +1,30 @@
 {
-  "name": "Casper Modified",
-  "version": "0.0.1"
+    "name": "jonlim.ca",
+    "description": "The theme used for JonLim.ca",
+    "homepage": "http://jonlim.ca",
+    "demo": "https://jonlim.ca",
+    "version": "0.0.2",
+    "engines": {
+        "ghost": "^0.9.0"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Jon Lim",
+        "url": "https://jonlim.ca"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:JonLim/jonlim.ca.git"
+    }
 }
